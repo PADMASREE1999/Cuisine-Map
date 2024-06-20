@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CuisineApp</string>
+    <string name="title">CuisineMap</string>
+    <string name="us">Let\'s Explore</string>
+    <string name="india">India</string>
+    <string name="australia">Australia</string>
+</resources>
